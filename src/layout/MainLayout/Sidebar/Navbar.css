@@ -1,0 +1,19 @@
+.scrollbar {
+  -ms-overflow-style: none;
+}
+
+.scrollbar::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.scrollbar ::-moz-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.scrollbar {
+  overflow: auto;
+  -ms-overflow-style: none;
+  scrollbar-color: transparent transparent; /*just hides the scrollbar for firefox */
+}

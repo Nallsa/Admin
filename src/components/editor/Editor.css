@@ -1,0 +1,14 @@
+.wrapper_class {
+  border-radius: 4px;
+  border-color: rgba(0, 0, 0, 0.23);
+  border-width: 1px;
+  border-style: solid;
+}
+
+.editor-class {
+  height: 150px;
+}
+
+.toolbar-class {
+  background-color: rgb(238, 240, 243);
+}

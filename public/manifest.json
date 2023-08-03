@@ -1,0 +1,8 @@
+{
+  "short_name": "Admin kids-cafe",
+  "name": "Админ-панель для управления сетью кафе",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
